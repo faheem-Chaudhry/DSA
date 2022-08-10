@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\dsa lab11 heap\dsa lab11 heap\Source.cpp(55,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ch FAHEEM\source\repos\dsa lab11 heap\dsa lab11 heap\Source.cpp(154,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ch FAHEEM\source\repos\dsa lab11 heap\dsa lab11 heap\Source.cpp(164): warning C4172: returning address of local variable or temporary: obj
+  dsa lab11 heap.vcxproj -> C:\Users\Ch FAHEEM\source\repos\dsa lab11 heap\x64\Debug\dsa lab11 heap.exe

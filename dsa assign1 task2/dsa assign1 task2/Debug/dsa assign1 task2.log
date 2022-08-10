@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\dsa assign1 task2\dsa assign1 task2\Source.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa assign1 task2\dsa assign1 task2\Source.cpp(16): warning C4715: 'isValidString': not all control paths return a value
+  dsa assign1 task2.vcxproj -> C:\Users\Ch FAHEEM\source\repos\dsa assign1 task2\Debug\dsa assign1 task2.exe

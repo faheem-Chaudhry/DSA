@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(31,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(59,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(61,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(76,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(78,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(102,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(111,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(115,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\dsa lab1 task 4\Source.cpp(119,21): warning C4018: '<': signed/unsigned mismatch
+  dsa lab1 task 4.vcxproj -> C:\Users\Ch FAHEEM\source\repos\dsa lab1 task 4\Debug\dsa lab1 task 4.exe

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\dsa assign1 task1\dsa assign1 task1\Source.cpp(10,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa assign1 task1\dsa assign1 task1\Source.cpp(60,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa assign1 task1\dsa assign1 task1\Source.cpp(120,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\dsa assign1 task1\dsa assign1 task1\Source.cpp(141,28): warning C4018: '<': signed/unsigned mismatch
+  dsa assign1 task1.vcxproj -> C:\Users\Ch FAHEEM\source\repos\dsa assign1 task1\Debug\dsa assign1 task1.exe

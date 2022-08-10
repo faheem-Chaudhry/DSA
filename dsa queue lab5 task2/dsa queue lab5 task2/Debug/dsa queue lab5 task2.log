@@ -1,0 +1,9 @@
+﻿  MyQueue.cpp
+C:\Users\Ch FAHEEM\source\repos\dsa queue lab5 task2\dsa queue lab5 task2\MyQueue.h(67,37): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+C:\Users\Ch FAHEEM\source\repos\dsa queue lab5 task2\dsa queue lab5 task2\MyQueue.h(67,37): error C2760: syntax error: unexpected token 'identifier', expected ')'
+C:\Users\Ch FAHEEM\source\repos\dsa queue lab5 task2\dsa queue lab5 task2\MyQueue.h(76): message : see reference to class template instantiation 'MyStack<T>' being compiled
+  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\dsa queue lab5 task2\dsa queue lab5 task2\MyQueue.h(67,37): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+C:\Users\Ch FAHEEM\source\repos\dsa queue lab5 task2\dsa queue lab5 task2\MyQueue.h(67,37): error C2760: syntax error: unexpected token 'identifier', expected ')'
+C:\Users\Ch FAHEEM\source\repos\dsa queue lab5 task2\dsa queue lab5 task2\MyQueue.h(76): message : see reference to class template instantiation 'MyStack<T>' being compiled
+  Generating Code...

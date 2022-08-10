@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task5\dsa lab1 task5\Source.cpp(126,1): error C2563: mismatch in formal parameter list
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task5\dsa lab1 task5\Source.cpp(126): message : see reference to class template instantiation 'Set<T>' being compiled
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task5\dsa lab1 task5\Source.cpp(126,1): error C2568: '<': unable to resolve function overload
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task5\dsa lab1 task5\Source.cpp(126,1): message : could be 'size_t std::size(const _Ty (&)[_Size]) noexcept'
+C:\Users\Ch FAHEEM\source\repos\dsa lab1 task5\dsa lab1 task5\Source.cpp(126,1): message : or       'unknown-type std::size(const _Container &)'

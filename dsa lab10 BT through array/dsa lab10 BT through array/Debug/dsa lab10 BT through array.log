@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\dsa lab10 BT through array\dsa lab10 BT through array\Source.cpp(18,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Ch FAHEEM\source\repos\dsa lab10 BT through array\dsa lab10 BT through array\Source.cpp(15): message : while compiling class template member function 'BinaryTree<int>::BinaryTree(int)'
+C:\Users\Ch FAHEEM\source\repos\dsa lab10 BT through array\dsa lab10 BT through array\Source.cpp(237): message : see reference to function template instantiation 'BinaryTree<int>::BinaryTree(int)' being compiled
+C:\Users\Ch FAHEEM\source\repos\dsa lab10 BT through array\dsa lab10 BT through array\Source.cpp(237): message : see reference to class template instantiation 'BinaryTree<int>' being compiled
+C:\Users\Ch FAHEEM\source\repos\dsa lab10 BT through array\dsa lab10 BT through array\Source.cpp(19,36): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+  dsa lab10 BT through array.vcxproj -> C:\Users\Ch FAHEEM\source\repos\dsa lab10 BT through array\Debug\dsa lab10 BT through array.exe
